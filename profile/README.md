@@ -10,7 +10,7 @@ The tooling, cloud, and community for web native development - [WebQit.io](https
 
 Web native tooling around the concept of `state`, `reactivity`, `data binding`, `routing`, `rendering`, the `component` model, the `SPA/MPA/MPA+SPA` architecture, and more.
 
-> Explore our work across [our repositories](https://github.com/orgs/webqit/repositories), starting with our [pinned repositories](#choose-pinned-repositories)
+> Explore our work across [our repositories](https://github.com/orgs/webqit/repositories), starting with our pinned repositories.
 
 ## About the WebQit Project
 
@@ -18,7 +18,7 @@ WebQit is a focused initiative to explore new ways to leverage the web platform!
 
 We're big on web standards and believe that the best use of our time is to build new technologies that extend the standards, rather than obscure them. Our projects are therefore often of proposals and polyfills for new DOM and browser APIs that push the limits to what's possible natively.
 
-> To learn more, please visit our website: [webqit.io](https://webqit.io)
+> To learn more, please visit our website: [webqit.io](https://webqit.io).
 
 ## Motivation
 
@@ -30,7 +30,7 @@ Web native tooling is how all of that good thinking find their way to the web pl
 
 Perhaps, this is the best way to move the web forward!
 
-> For a detailed analysis of the problem, take a look at the [Rethinking the Modern Web](https://dev.to/oxharris/rethinking-the-modern-web-2e4f-temp-slug-7135858?preview=d3b606d12f08e26d286d57ece555a606ca218e94ea233a133ca684f99227ede1e0171d75f4b73caf054f70607c2075ac035f86b41c7f86e7372aec80 ) series (draft)
+> For a detailed analysis of the problem, take a look at the [Rethinking the Modern Web](https://dev.to/oxharris/rethinking-the-modern-web-2e4f-temp-slug-7135858?preview=d3b606d12f08e26d286d57ece555a606ca218e94ea233a133ca684f99227ede1e0171d75f4b73caf054f70607c2075ac035f86b41c7f86e7372aec80 ) series. (draft)
 
 ## Getting Involved
 
