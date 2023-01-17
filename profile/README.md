@@ -10,7 +10,7 @@ The tooling, cloud, and community for web native development - [WebQit.io](https
 
 Web native tooling around the concept of `state`, `reactivity`, `data binding`, `routing`, `rendering`, the `component` model, the `SPA/MPA/MPA+SPA` architecture, and more.
 
-> Start with pinned repositories and go on to explore [our other repositories](https://github.com/webqit)
+> Explore our work across [our repositories](https://github.com/webqit), starting with our [pinned repositories](#choose-pinned-repositories)
 
 ## About the WebQit Project
 
