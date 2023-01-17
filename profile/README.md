@@ -10,10 +10,6 @@ The tooling, cloud, and community for web native development - [WebQit.io](https
 
 Web native tooling around the concept of `state`, `reactivity`, `data binding`, `routing`, `rendering`, the `component` model, the `SPA/MPA/MPA+SPA` architecture, and more.
 
-### [JavaScript Graph Functions](https://github.com/webqit/subscript)
-
-[Proposal/polyfill] The basic, one-liner approach to fine-grained reactivity. (Introducing Imperative Reactive Programming (IRP) in JavaScript.)
-
 > Start with pinned repositories and go on to explore [our other repositories](https://github.com/webqit)
 
 ## About the WebQit Project
