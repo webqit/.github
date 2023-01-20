@@ -1,16 +1,18 @@
-# The WebQit Project
+# Welcome to The WebQit Project
 
+<!--
 <img src="https://webqit.io/assets/img/logo/logo-130x130.png" alt="webQit logo" align="right" />
 
 The tooling, cloud, and community for web native development - [WebQit.io](https://webqit.io)
 
 > *Bank more on the web platform and less on abstractions!*
+-->
 
 ## What We're Working On
 
-Web native tooling around the concept of `state`, `reactivity`, `data binding`, `routing`, `rendering`, the `component` model, the `SPA/MPA/MPA+SPA` architecture, and more.
+-> Web native tooling around the concept of `state`, `reactivity`, `data binding`, `routing`, `rendering`, the `component` model, the `SPA/MPA/MPA+SPA` architecture, and more.
 
-> Explore our work across [our repositories](https://github.com/orgs/webqit/repositories), starting with our pinned repositories.
+> Explore our work across [our repositories](https://github.com/orgs/webqit/repositories), starting with the pinned repositories below.
 
 ## About the WebQit Project
 
