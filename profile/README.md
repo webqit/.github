@@ -2,11 +2,11 @@
 
 <!--
 <img src="https://webqit.io/assets/img/logo/logo-130x130.png" alt="webQit logo" align="right" />
+-->
 
 The tooling, cloud, and community for web native development - [WebQit.io](https://webqit.io)
 
 > *Bank more on the web platform and less on abstractions!*
--->
 
 ## What We're Working On
 
