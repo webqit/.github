@@ -24,7 +24,7 @@ We're big on web standards and believe that the best use of our time is to build
 
 ## Motivation
 
-Frameworks encode a lot of good thinking, but come at a price!
+Frameworks encode a lot of good thinking, but come with a price!
 
 The web platform gives us much for free, but leaves much to be desired!
 
