@@ -28,7 +28,7 @@ Frameworks encode a lot of good thinking, but come at a non-trivial cost!
 
 The web platform has in recent years evolved, but leaves much to be desired!
 
-If we took some of that "good thinking" into the web platform, we would be having the best of both worlds! This helps everyone bank more on the platform and less on abstractions!
+If we took some of that "good thinking" to the web platform itself, we would be having the best of both worlds! This helps everyone bank more on the platform and less on abstractions!
 
 Perhaps, this is the best way to move the web forward!
 
