@@ -24,11 +24,11 @@ We're big on web standards and believe that the best use of our time is to build
 
 ## Motivation
 
-Frameworks encode a lot of good thinking, but come with a price!
+Frameworks encode a lot of good thinking, but come at a non-trivial cost!
 
-The web platform gives us much for free, but leaves much to be desired!
+The web platform has in recent years evolved, but leaves much to be desired!
 
-Web native tooling is how all of that good thinking find their way to the web platform! This helps everyone bank more on the platform and less on abstractions!
+If we took some of that "good thinking" into the web platform, we would be having the best of both worlds! This helps everyone bank more on the platform and less on abstractions!
 
 Perhaps, this is the best way to move the web forward!
 
