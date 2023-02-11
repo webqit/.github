@@ -4,11 +4,11 @@
 <img src="https://webqit.io/assets/img/logo/logo-130x130.png" alt="webQit logo" align="right" />
 -->
 
-Bank more on the web platform and less on abstractions! *Introducing the tooling, cloud, and community for web native development!*
+Bank more on the web platform and less on abstractions! - *Introducing the tooling, cloud, and community for web native development!*
 
 ## What We're Working On
 
--> Web-native tooling around the concept of `state`, `fine-grained reactivity`, `data binding`, `routing`, `rendering`, the `component` model, the `SPA/MPA/MPA+SPA` architecture, and more. [Explore the WebQit ecosystem](https://github.com/orgs/webqit/webqit).
+-> An ecosystem of technologies that explore new ways to go web-native! [Explore now](https://github.com/orgs/webqit/webqit).
 
 ## About the WebQit Project
 
