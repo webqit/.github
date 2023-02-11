@@ -4,7 +4,7 @@
 <img src="https://webqit.io/assets/img/logo/logo-130x130.png" alt="webQit logo" align="right" />
 -->
 
-Introducing the tooling, cloud, and community for web native development! *Bank more on the web platform and less on abstractions!*
+Bank more on the web platform and less on abstractions! *Introducing the tooling, cloud, and community for web native development!*
 
 ## What We're Working On
 
