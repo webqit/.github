@@ -30,7 +30,7 @@ If we took some of that "good thinking" to the web platform itself, we would be 
 
 *It's perhaps the best way to move the web forward!*
 
-> For a detailed analysis of the problem, take a look at the [Rethinking the Modern Web](https://dev.to/oxharris/rethinking-the-modern-web-2e4f-temp-slug-7135858?preview=d3b606d12f08e26d286d57ece555a606ca218e94ea233a133ca684f99227ede1e0171d75f4b73caf054f70607c2075ac035f86b41c7f86e7372aec80 ) series. (draft)
+> For a detailed analysis of the problem, take a look at the [Rethinking the Modern Web](https://dev.to/oxharris/rethinking-the-modern-web-5cn1) series.
 
 ## Getting Involved
 
