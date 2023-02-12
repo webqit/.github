@@ -8,7 +8,7 @@ Bank more on the web platform and less on abstractions! - *Introducing the tooli
 
 ## What We're Working On
 
--> **Tooling**: An ecosystem of technologies that explore new ways to go web-native on the modern application story! [Explore now](https://github.com/webqit/webqit).
+-> **Tooling**: A growing ecosystem of technologies that explore new ways to go web-native on the modern application story! [Explore now](https://github.com/webqit/webqit).
 
 -> **Community**: The *[WebQit Community](https://github.com/webqit/webqit#the-webqit-community)* and the early-stage *[Web-Native (W3C) Community Group](https://www.w3.org/groups/cg/web-native)* for web-native engineers. *[Join now](https://www.w3.org/community/web-native/join)*
 
