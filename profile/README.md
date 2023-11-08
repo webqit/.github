@@ -8,7 +8,7 @@ We're big on web standards and are heavily invested in new technologies, proposa
 
 Tell us how cool we are by leaving us a star. Thanks for visiting!
 
-## Open Collective
+## With your Support
 
 Help make the WebQit open source project sustainable with your financial support
 
