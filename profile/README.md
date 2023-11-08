@@ -2,7 +2,7 @@
 
 This is an active, open expedition on possible new ways to build on the modern web!
 
-Here, we're passionate about pushing the boundaries of web development - from how we author code to how we ship the products, and we're dedicated to exploring novel concepts and technologies. **Our projects are how we #tryAllTheThings!** We just like how it feels like to live on the "experimental" side of the web and want to share what works - one framework, compiler, CLI or browser API at a time! Start exploring from our pinned repos below!
+Here, we're passionate about pushing the boundaries of modern web development - from how we author code to how we ship the products, and we're dedicated to exploring novel concepts and technologies. **Our projects are how we #tryAllTheThings!** We just like how it feels like to live on the "experimental" side of the web and want to share what works - one framework, compiler, CLI or browser API at a time! Start exploring from our pinned repos below!
 
 We're big on web standards and are heavily invested in new technologies, proposals and polyfills that extend what's natively available. (You'll see of our work on a standards track!) Web-native development is, in fact, something we really do champion with our work!
 
