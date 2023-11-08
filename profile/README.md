@@ -10,7 +10,10 @@ Tell us how cool we are by leaving us a star. Thanks for visiting!
 
 ## Open Collective
 
-Help make the WebQit open source project sustainable with your financial support - [Open Collective / **webqit**](https://opencollective.com/webqit).
+Help make the WebQit open source project sustainable with your financial support
+
+- [GitHub Sponsors / **ox-harris**](https://github.com/sponsors/ox-harris)
+- [Open Collective / **webqit**](https://opencollective.com/webqit).
 
 _Special thanks to **our first sponsor**_:
 
